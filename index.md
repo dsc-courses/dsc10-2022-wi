@@ -17,7 +17,7 @@ nav_order: 1
 
 ### I have a conflict with the final exam (e.g. Math 18). Will you offer alternate final exams times?
 
-Yes. Expect a form to be sent out in the first few weeks of the course where you can indicate to us that you have a conflict.
+Yes. Expect a form to be sent out in the first few weeks of the course where you can indicate to us that you have a conflict. **This is the only case in which we'll offer alternate final exam times**; we will **not** offer alternate final exam times for any other reason.
 
 ### Will we use the "LAB" time?
 
