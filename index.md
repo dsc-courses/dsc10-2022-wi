@@ -10,8 +10,9 @@ nav_order: 1
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{{ site.staffersnobio }}
+<p style="color:red">Looking for the Fall 2021 site? <a style="color:red" href="https://dsc-courses.github.io/dsc10-2021-fa">Click here</a>.</p>
 
+{{ site.staffersnobio }}
 
 ## Frequently Asked Questions for DSC 10, Winter 2022
 

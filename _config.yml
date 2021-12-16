@@ -16,15 +16,26 @@
 title: DSC 10
 description: DSC 10, Winter 2022 at UC San Diego
 tagline: Principles of Data Science
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 color_scheme: bluecsd
-search_enabled: false
+search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links:
+  Course Notes:
+    - 'http://dsc-courses.github.io/dsc10-notes/'
+  Campuswire:
+    - 'https://campuswire.com/c/G6950E967/'
+  DataHub:
+    - 'https://datahub.ucsd.edu'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/339284'
 footer_content:
 
 # Collections for website data
