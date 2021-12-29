@@ -14,20 +14,10 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-## Frequently Asked Questions for DSC 10, Winter 2022
+[Lecture Zoom Link](https://ucsd.zoom.us/my/rampure){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
 
-### I have a conflict with the final exam (e.g. Math 18). Will you offer alternate final exams times?
+**Note:** Until this disclaimer is removed, all information at this site should be treated as temporary and subject to change.
 
-Yes. Expect a form to be sent out in the first few weeks of the course where you can indicate to us that you have a conflict. **This is the only case in which we'll offer alternate final exam times**; we will **not** offer alternate final exam times for any other reason.
-
-### Will we use the "LAB" time?
-
-No – you can ignore the LAB section that appears on WebReg, we will not use this time for anything. We **will** use the discussion timeslot, though.
-
-### Will lectures be podcasted?
-
-Yes. Attendance will not be required.
-
-### Should I take DSC 10? 🤔
-
-Of course!
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
