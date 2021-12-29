@@ -123,7 +123,7 @@ Weekly lab assignments are a required part of the course and will help you devel
 
 As you complete the lab, you'll be able to run a sequence of autograder tests, which check to make sure that your answers are correct. If you complete the assignment and all the tests pass, you'll get a perfect score!
 
-To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. You should verify that all of your test cases pass on Gradescope **before the deadline**. Lab assignments will usually (but not always!) be due on Tuesdays at 11:59pm San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
+To submit a lab, follow the instructions in the assignment to upload your notebook to Gradescope, which will run automated tests and assign your score. You should verify that all of your test cases pass on Gradescope **before the deadline**. Lab assignments will **usually** (but not always!) be due on **Tuesdays at 11:59pm** San Diego time. We will release lab assignments roughly a week before they're due. The lowest lab score is dropped from the grade calculation.
 
 Labs must be completed and submitted individually, but we encourage you to discuss high-level approaches with others. See the [Collaboration Policy and Academic Integrity](http#collaboration-policy-and-academic-integrity-) section for more details.
 
@@ -135,7 +135,7 @@ An important difference between labs and homeworks lies in the way autograder te
 
 After you submit your homework to Gradescope, and after the deadline for submissions has passed, a new set of hidden tests will be run to make sure that you have the correct answers. In the percent example above, the hidden test might check that your answer equals 56, for example. Your score for the assignment will be based on the results of the hidden tests, which won't be available immediately after submission. So if you see a perfect score upon submission, this only means that you've passed the formatting tests, not the hidden correctness tests that determine your score.
 
-To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will usually (but not always!) be due on Saturdays at 11:59pm San Diego time. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
+To submit a homework, follow the instructions in the assignment to upload your notebook to Gradescope. Check back after the deadline to see your score, based on the hidden correctness tests. Homeworks will **usually** (but not always!) be due on **Saturdays at 11:59pm** San Diego time. We will release homework assignments roughly a week before they're due. The lowest homework score is dropped from the grade calculation.
 
 Like labs, homeworks must be completed alone.
 
@@ -150,7 +150,7 @@ Unlike labs and homeworks, you may work with a partner on projects. Your partner
 ### Deadlines and Slip Days
 Labs, homeworks, and projects must be submitted by 11:59pm San Diego time on the due date to be considered on time. You may turn them in as many times as you like before the deadline, and only the most recent submission will be graded, so it's a good habit to submit early and often. If you make a submission after the deadline, your assignment will be counted as late. 
 
-You have six "slip days" to use throughout the quarter. A slip day extends the deadline of any one homework, lab, or project by 24 hours. You cannot turn in any assignments more than 48 hours late, meaning that you cannot use more than 2 slip days on any assignment.
+You have **six "slip days"** to use throughout the quarter. A slip day extends the deadline of any one homework, lab, or project by 24 hours. You cannot turn in any assignments more than 48 hours late, meaning that you cannot use more than 2 slip days on any assignment.
 
 Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete an assignment on its original due date (or if you forgot about it. But slip days are also meant for things like the internet (or the DataHub server) going down at 11:58 PM just as you go to submit your homework. Slip days are meant to be used in exceptional circumstances, so you probably should not need to use all six, but if you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.
 
