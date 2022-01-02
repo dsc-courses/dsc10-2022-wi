@@ -13,7 +13,7 @@ To access a remote lecture or discussion section, click the corresponding calend
 
 ### Office Hours (<a style="color:green; text-decoration: none">green</a>)
 
-To access a remote office hour, click the corresponding calendar event in the calendar below to see the Zoom link. Once campus resumes in-person instruction, some office hours will move online; we will update this page with instructions on how to access them when the time comes.
+To access a remote office hour, click the corresponding calendar event in the calendar below to see the Zoom link. Once campus resumes in-person instruction, some office hours will move in-person; we will update this page with instructions on how to access them when the time comes.
 
 <!-- - When campus resumes in-person instruction, we will hold some office hours in person. These are held on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You may need a code to enter the building; this code is TBD. Make sure to hit the # key after typing in the code. -->
 - **Note:** In office hours, the staff member may ask you to put yourself "on the queue" by creating a ticket at [autograder.ucsd.edu](https://autograder.ucsd.edu).
