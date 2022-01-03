@@ -1,5 +1,5 @@
 ---
-    title: Week 1
+    title: Week 1 – Welcome to DSC 10! 👋
     weekNumber: 1
     days:
       - date: 2021-1-3

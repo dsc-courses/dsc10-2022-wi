@@ -14,7 +14,7 @@ nav_order: 1
 
 [Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
 
-**Note:** Until this disclaimer is removed, all information at this site should be treated as temporary and subject to change.
+Make sure you're familiar with the [Syllabus](../syllabus).
 
 {% for module in site.modules %}
 {{ module }}
