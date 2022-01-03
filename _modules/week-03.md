@@ -7,19 +7,20 @@
           
           "No Lecture (MLK Day)":
           "**DIS 2**{: .label .label-disc } Arrays and DataFrames (Recording Only)":
-      - date: 2021-1-18
+      - date: 2022-1-18
         events:
           
           "**Lab 2**{: .label .label-lab } **Arrays and DataFrames (due 1/18)**":
-      - date: 2021-1-19
+      - date: 2022-1-19
         events:
           "**LEC 7**{: .label .label-lecture } Data Visualization":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
                 
-      - date: 2021-1-21
+      - date: 2022-1-21
         events:
           "**LEC 8**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
-                
+      - date: 2022-1-22
+        events:
           "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 1/22)**":
 ---
