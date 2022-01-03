@@ -7,6 +7,7 @@
           "**LEC 17**{: .label .label-lecture } Permutation Testing":
             "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html)"
                 
+          "**DIS 6**{: .label .label-disc } Hypothesis Testing":
       - date: 2021-2-15
         events:
           

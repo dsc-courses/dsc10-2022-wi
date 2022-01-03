@@ -6,6 +6,7 @@
         events:
           
           "No Lecture (Presidents' Day)":
+          "**DIS 7**{: .label .label-disc } Permutation Testing (Recording Only)":
       - date: 2021-2-22
         events:
           

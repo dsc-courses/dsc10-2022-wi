@@ -8,7 +8,7 @@ import os
 import sys
 import numpy as np
 
-df = pd.read_csv('Lecture Schedule – DSC 10, Winter 2022 - wi22 with "parameters and statistics" removed.csv')
+df = pd.read_csv('Lecture Schedule – DSC 10, Winter 2022 - wi22 final.csv')
 
 df['Week'] = df['Week'].fillna(method = 'ffill').astype(int)
 df['#'] = df['#'].fillna(0).astype(int)
@@ -98,10 +98,10 @@ def write_week(i, dest = '../_modules', write = True):
                 outstr += f"""
           "**HW {hw_num}**{{: .label .label-hw }} **{hw_name}**":"""
 
-        # if str(week.loc[j, 'Discussion']) != 'nan':
-        #     disc_num, disc_name = week.loc[j, 'Discussion'].split('. ', 1)
-        #     outstr += f"""
-        #   "**DIS {disc_num}**{{: .label .label-disc }} {disc_name}":"""
+        if str(week.loc[j, 'Discussion']) != 'nan':
+            disc_num, disc_name = week.loc[j, 'Discussion'].split('. ', 1)
+            outstr += f"""
+          "**DIS {disc_num}**{{: .label .label-disc }} {disc_name}":"""
     
     outstr += "\n---"
     

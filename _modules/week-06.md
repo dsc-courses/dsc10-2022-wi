@@ -7,6 +7,7 @@
           "**LEC 15**{: .label .label-lecture } Hypothesis Testing":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html)"
                 
+          "**DIS 5**{: .label .label-disc } Midterm Review":
       - date: 2021-2-9
         events:
           

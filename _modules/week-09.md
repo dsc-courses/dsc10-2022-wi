@@ -7,6 +7,7 @@
           "**LEC 22**{: .label .label-lecture } Central Limit Theorem":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
                 
+          "**DIS 8**{: .label .label-disc } Bootstrapping and Confidence Intervals (add a bit about spread)":
       - date: 2021-3-1
         events:
           

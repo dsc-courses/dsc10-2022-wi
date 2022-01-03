@@ -7,6 +7,7 @@
           "**LEC 9**{: .label .label-lecture } Functions and Apply":
             "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
                 
+          "**DIS 3**{: .label .label-disc } Plotting and Functions":
       - date: 2021-1-25
         events:
           

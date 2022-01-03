@@ -7,6 +7,7 @@
           "**LEC 12**{: .label .label-lecture } Probability":
             "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html)"
                 
+          "**DIS 4**{: .label .label-disc } Merge, Conditionals, and Iteration":
       - date: 2021-2-1
         events:
           

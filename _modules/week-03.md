@@ -6,6 +6,7 @@
         events:
           
           "No Lecture (MLK Day)":
+          "**DIS 2**{: .label .label-disc } Arrays and DataFrames (Recording Only)":
       - date: 2021-1-18
         events:
           

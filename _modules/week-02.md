@@ -7,6 +7,7 @@
           "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
             "[Notes 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
                 
+          "**DIS 1**{: .label .label-disc } Python Basics and Causality":
       - date: 2021-1-11
         events:
           
