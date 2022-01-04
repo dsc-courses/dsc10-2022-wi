@@ -9,7 +9,7 @@ nav_exclude: true
 # Pair Programming Guidelines 👯
 
 ## What is "Pair Programming"?
-When working on projects (and projects only), you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes. Working in pairs should make you much better at programming than working alone would. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
+When working on projects (and **projects only**), you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes. Working in pairs should make you much better at programming than working alone would. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
 
 >>> [Pair programming] makes learning programming faster and more fun. I have had previous experience working both alone and with partners. I definitely agree that working with partners is more profitable.” – CS student
 
@@ -23,7 +23,7 @@ To learn the "do’s and don'ts" of pair programming and to see pairs in action,
 - You may not split the code and develop it separately, even if you are sitting right next to each other.  You must collaboratively develop a single solution.  
 
 ## Choosing a Partner
-You can choose your own partner, but the partner must come from your same team. You will need to arrange times to meet outside of class. We expect everyone to be flexible and professional in arranging those times as necessary; if your schedule is highly constrained, explore possible meeting times with your prospective partner before you commit to the partnership.
+You can choose your own partner. You will need to arrange times to meet outside of class. We expect everyone to be flexible and professional in arranging those times as necessary; if your schedule is highly constrained, explore possible meeting times with your prospective partner before you commit to the partnership.
 
 You should try to pick a partner whose experience and skill level with programming is similar to your own. This may not always be possible and it is sometimes hard to compare skill levels, but students tell us (and other data supports) that pairs are most productive when the partners start at about the same level. 
 
