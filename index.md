@@ -12,9 +12,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-[Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
+Welcome to DSC 10! Make sure you're familiar with the [Syllabus](../syllabus). The Zoom link to join all course events can be found below.
 
-Make sure you're familiar with the [Syllabus](../syllabus).
+[Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
 
 {% for module in site.modules %}
 {{ module }}
