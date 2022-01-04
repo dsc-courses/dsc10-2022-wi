@@ -79,7 +79,7 @@ First and foremost, you will need access to a computer (or tablet with a keyboar
 
 All course content will be linked from this website, but there are a few additional platforms that you'll need to access:
 
-- **Campuswire:** We'll be using Campuswire as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G6950E967).
+- **Campuswire:** We'll be using Campuswire as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn't already get an invitation to our Campuswire course, [sign up here](https://campuswire.com/p/G6950E967) (if it asks you to enter a code, enter 8844).
 
 - **Gradescope:** You'll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/339284). This is where all of your grades will live as well. If you didn't already get an invitation to our Gradescope course, reach out to the instructors.
 
