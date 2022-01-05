@@ -11,7 +11,7 @@
       - date: 2022-1-11
         events:
           
-          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 1/11)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/01-python_basics/lecture.ipynb)":
+          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 1/11)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/01-python_basics/lab.ipynb)":
           
       - date: 2022-1-12
         events:
