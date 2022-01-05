@@ -9,7 +9,7 @@
                 
       - date: 2022-1-5
         events:
-          "**LEC 2**{: .label .label-lecture } [Association and Causality](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec02/lecture.ipynb)":
+          "**LEC 2**{: .label .label-lecture } [Association and Causality](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec02/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZi3cP7G_5nuC2tG5ECXonx)":
             "[CIT 2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)"
                 
       - date: 2022-1-7
