@@ -53,3 +53,6 @@ Below we've linked some exams from previous offerings of the course. These exams
 - [Library Guide to Data and Statistics](https://ucsd.libguides.com/data-statistics)
 - [Academic Integrity Homepage](https://academicintegrity.ucsd.edu)
 - [Counseling and Psychological Services (CAPS)](https://caps.ucsd.edu)
+
+## Other
+- [Places to find datasets](https://rampure.org/find-datasets)
