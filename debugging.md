@@ -69,6 +69,13 @@ It can be difficult to decipher the meaning of error messages in Python. [Here i
 
 ## DataHub
 
+### When I click an assignment link on the course website, I see a black screen with a bunch of text. What should I do?
+
+This is usually what's called a "merge conflict", which means that DataHub wasn't able to combine the versions of the assignments we released with the versions you worked on. This should only happen in rare circumstances. There's a fix that prevents you from losing any of your work:
+
+1. Go directly to DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)). After opening DataHub, instead of clicking `dsc10-2022-wi`, click the box next to it, then click rename, then rename it to something else (like `dsc10-2022-wi-old`).
+2. Click the assignment link on the course website again. Now you'll have a new `dsc10-2022-wi` folder in your DataHub, but the work in it will be blank. When you click an assignment link on the course website it will always bring you to this folder, but all of your previous work will still be in the old folder. If you'd prefer, you can manually transfer your work to the new folder, but that's probably not necessary.
+
 ### Why can’t I log in to Datahub?
 
 Log out of all Google accounts or open an incognito window. When prompted, enter your full UCSD email, `username@ucsd.edu`, as your credentials.
