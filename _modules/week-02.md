@@ -4,7 +4,7 @@
     days:
       - date: 2022-1-10
         events:
-          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec04/lecture.ipynb)":
+          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec04/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhY0apdPlKvEPOrjl25_awmf)":
             "[Notes 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
                 
           "**DIS 1**{: .label .label-disc } [Python Basics and Causality](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/01-python_basics_causality/discussion.ipynb)":
