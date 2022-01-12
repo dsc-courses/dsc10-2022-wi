@@ -15,7 +15,7 @@
           
       - date: 2022-1-12
         events:
-          "**LEC 5**{: .label .label-lecture } Accessing, Sorting, and Querying":
+          "**LEC 5**{: .label .label-lecture } [Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec05/lecture.ipynb)":
             "[Notes 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
                 
       - date: 2022-1-14
