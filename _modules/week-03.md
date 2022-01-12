@@ -10,7 +10,7 @@
       - date: 2022-1-18
         events:
           
-          "**Lab 2**{: .label .label-lab } **Arrays and DataFrames (due 1/18)**":
+          "**Lab 2**{: .label .label-lab } [**Arrays and DataFrames (due 1/18)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/02-arrays_dataframes/lab.ipynb)":
       - date: 2022-1-19
         events:
           "**LEC 7**{: .label .label-lecture } Data Visualization":
