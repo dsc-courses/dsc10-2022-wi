@@ -11,11 +11,11 @@
       - date: 2022-1-11
         events:
           
-          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 1/11)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/01-python_basics/lab.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYCVkTg4PdnK7QTcXrK6Eyv)":
+          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 1/11)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/01-python_basics/lab.ipynb)":
           
       - date: 2022-1-12
         events:
-          "**LEC 5**{: .label .label-lecture } [Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec05/lecture.ipynb)":
+          "**LEC 5**{: .label .label-lecture } [Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec05/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYCVkTg4PdnK7QTcXrK6Eyv)":
             "[Notes 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"
                 
       - date: 2022-1-14
