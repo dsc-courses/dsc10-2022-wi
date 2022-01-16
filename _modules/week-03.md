@@ -22,5 +22,5 @@
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
       - date: 2022-1-22
         events:
-          "**HW 2**{: .label .label-hw } **Arrays and DataFrames (due 1/22)**":
+          "**HW 2**{: .label .label-hw } [**Arrays and DataFrames (due 1/22)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/02-arrays_dataframes/homework.ipynb)":
 ---
