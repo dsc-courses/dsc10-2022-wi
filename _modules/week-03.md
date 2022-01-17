@@ -6,7 +6,7 @@
         events:
           
           "No Lecture (MLK Day)":
-          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/02-arrays_tables/discussion.ipynb) [🎥](https://youtu.be/GGP54gGN6Qk) (Recording Only)":
+          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/02-arrays_tables/discussion.ipynb) [🎥](https://youtu.be/Q3mww8m3iIQ) (Recording Only)":
       - date: 2022-1-18
         events:
           
