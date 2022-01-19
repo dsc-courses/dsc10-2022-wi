@@ -6,14 +6,14 @@
         events:
           
           "No Lecture (MLK Day)":
-          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/02-arrays_tables/discussion.ipynb) [🎥](https://youtu.be/Q3mww8m3iIQ) (Recording Only)":
+          "**DIS 2**{: .label .label-disc } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/02-arrays_tables/discussion.ipynb) [🎥](https://youtu.be/Q3mww8m3iIQ)":
       - date: 2022-1-18
         events:
           
           "**Lab 2**{: .label .label-lab } [**Arrays and DataFrames (due 1/18)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/02-arrays_dataframes/lab.ipynb)":
       - date: 2022-1-19
         events:
-          "**LEC 7**{: .label .label-lecture } Data Visualization":
+          "**LEC 7**{: .label .label-lecture } [Data Visualization 📈](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec07/lecture.ipynb)":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
                 
       - date: 2022-1-21
