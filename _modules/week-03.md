@@ -18,7 +18,7 @@
                 
       - date: 2022-1-21
         events:
-          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec08/lecture.ipynb)":
+          "**LEC 8**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec08/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYW-g18bLuHaq5p_IvTmrFL)":
             "[Notes 14-17](https://notes.dsc10.com/03-visualization/intro.html)"
       - date: 2022-1-22
         events:
