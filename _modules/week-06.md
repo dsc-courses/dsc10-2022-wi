@@ -11,7 +11,7 @@
       - date: 2022-2-9
         events:
           
-          "**Exam**{: .label .label-exam } **Midterm Exam (in class)**":
+          "**Exam**{: .label .label-exam } **Midterm Exam (remote, during class)**":
       - date: 2022-2-11
         events:
           "**LEC 16**{: .label .label-lecture } Hypothesis Testing, Continued":

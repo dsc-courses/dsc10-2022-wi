@@ -22,5 +22,5 @@
           "**LEC 27**{: .label .label-lecture } Conclusion":
       - date: 2022-3-12
         events:
-          "**Exam**{: .label .label-exam } **Final Exam (3-6PM)**":
+          "**Exam**{: .label .label-exam } **Final Exam (remote, 3-6PM)**":
 ---
