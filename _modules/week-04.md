@@ -24,5 +24,5 @@
                 
       - date: 2022-1-29
         events:
-          "**HW 3**{: .label .label-hw } **Data Visualization and Python Functions (due 1/29)**":
+          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 1/29)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
 ---
