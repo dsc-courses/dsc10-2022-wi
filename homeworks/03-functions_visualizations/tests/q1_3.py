@@ -1,0 +1,10 @@
+test = {   'name': 'q1_3',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> isinstance(water_grass_fire, bpd.DataFrame) and water_grass_fire.shape[1] == 9 # Don't remove any columns!\nTrue", 'hidden': False, 'locked': False},
+                                   {   'code': ">>> ('Abomasnow' in water_grass_fire.index) and ('Alomomola' in water_grass_fire.index) and ('Arcanine' in water_grass_fire.index)\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

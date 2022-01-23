@@ -1,0 +1,10 @@
+test = {   'name': 'q1_4',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(legendary_pokemon, bpd.DataFrame)\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': ">>> list(legendary_pokemon.columns) == ['num_legendary'] # Make sure there's only one column and that its name is spelled correctly!\nTrue",
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
