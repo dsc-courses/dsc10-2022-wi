@@ -4,7 +4,7 @@
     days:
       - date: 2022-1-24
         events:
-          "**LEC 9**{: .label .label-lecture } Functions and Apply":
+          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec09/lecture.ipynb)":
             "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
                 
           "**DIS 3**{: .label .label-disc } Plotting and Functions":
