@@ -8,6 +8,7 @@
             "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
                 
           "**DIS 3**{: .label .label-disc } Plotting and Functions":
+          "**SUR**{: .label .label-survey } [**Hybrid Format Survey**](https://docs.google.com/forms/d/e/1FAIpQLSfSKwW69edaJnbdH8fJN1C0jUVAu2H6I0TsRQHuJQsOookdig/viewform)":
       - date: 2022-1-25
         events:
           
