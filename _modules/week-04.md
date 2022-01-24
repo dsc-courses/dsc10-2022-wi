@@ -4,7 +4,7 @@
     days:
       - date: 2022-1-24
         events:
-          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec09/lecture.ipynb)":
+          "**LEC 9**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec09/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhbLZ710EKs2dTpvXc4xJ3Fl)":
             "[Note 12](https://notes.dsc10.com/02-data_sets/apply.html)"
                 
           "**DIS 3**{: .label .label-disc } [Plotting and Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/03-plotting_apply/discussion.ipynb)":
