@@ -11,7 +11,7 @@
       - date: 2022-2-1
         events:
           
-          "**Lab 4**{: .label .label-lab } **DataFrames, Control Flow, and Probability (due 2/1)**":
+          "**Lab 4**{: .label .label-lab } [**DataFrames, Control Flow, and Probability (due 2/1)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/04-control_flow/lab.ipynb)":
       - date: 2022-2-2
         events:
           "**LEC 13**{: .label .label-lecture } Simulation":
