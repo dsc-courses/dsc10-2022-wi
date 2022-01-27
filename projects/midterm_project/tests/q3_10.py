@@ -1,0 +1,10 @@
+test = {   'name': 'q3_10',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(apps_per_capita, bpd.Series) and len(apps_per_capita) == 29\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> np.all(0 < apps_per_capita < 1) # Use proportions\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> 'San Diego' in apps_per_capita.index\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> 0.13 < apps_per_capita.loc['San Diego'] < 0.14\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
