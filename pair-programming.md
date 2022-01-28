@@ -16,7 +16,9 @@ nav_exclude: true
 {:toc}
 
 ## What is "Pair Programming"?
-When working on projects (and **projects only**), you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes. If working remotely, pair programming involves being on a Zoom call together at the same time. The driver should share their screen, and should still rotate roughly every 20 minutes.
+When working on projects (and **projects only**), you may work alone or with one partner, using the “Pair Programming” approach. In pair programming, two programmers share one computer. One student is the “driver,” who controls the keyboard and mouse. The other is the “navigator,” who observes, asks questions, suggests solutions, and thinks about slightly longer-term strategies. The two programmers switch roles about every 20 minutes.
+
+**When working remotely**, pair programming involves being on a Zoom call together at the same time. The driver should share their screen, and should still rotate roughly every 20 minutes. When rotating, you may transfer the work that you did together from the old driver's notebook to the new driver's notebook by copying the completed questions between the notebooks.
 
 Working in pairs should make you much better at programming than working alone would. The resulting work of pair programming nearly always outshines that of the solitary programmer, with pairs producing better code in less time.
 
@@ -29,7 +31,7 @@ To learn the "do’s and don'ts" of pair programming and to see pairs in action,
 - You must always be working together with your partner when developing code, **either in-person or while screen-sharing in a Zoom call**.  You may not do any coding without your partner present.
 - You may not use or even look at any code you have previously developed without your partner.  This means, if you choose to split with a partner, you must both start over from scratch with your new partner.  Completely throw your old code away.  
 - You and your partner must both be active contributors to the code.  This mean, you must both be engaged in the development (talking, typing, suggesting, etc) and you must switch roles regularly.
-- You may not split the code and develop it separately, even if you are sitting right next to each other or are on a Zoom call together.  You must collaboratively develop a single solution.  
+- You may not split the code and develop it separately, even if you are sitting right next to each other or are on a Zoom call together. You must collaboratively develop a single solution.
 
 ## Choosing a Partner
 
