@@ -1,5 +1,5 @@
 ---
-    title: Week 3
+    title: Week 3 – Data Visualization
     weekNumber: 3
     days:
       - date: 2021-1-17

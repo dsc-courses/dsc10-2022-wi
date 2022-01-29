@@ -12,10 +12,11 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-Welcome to DSC 10!
-- Make sure you're familiar with the [Syllabus](../syllabus). 
-- The Zoom link to join all course events can be found below.
-- See the [Resources](../resources) tab for important links (e.g. the reference sheet, supplemental videos).
+<b style='color: red'>Update as of January 31st:</b>
+- Lectures, discussions, and some office hours are now offered in-person. **Lectures are in Center Hall 214, and discussions are in Center Hall 105.**
+- You may still join all lectures and discussions remotely via Zoom by using the link below.
+- Some office hours are in-person and some are remote; see the [Calendar](../calendar) for more details.
+
 
 [Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue } [Recordings](https://www.youtube.com/playlist?list=PLDNbnocpJUhZDpPKmmbgXAuZqYYPhC0D-){: .btn .btn-green }
 

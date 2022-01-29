@@ -48,6 +48,8 @@ While you might see the correct answer displayed as the result of the cell, chan
 
 ## Specific Errors
 
+A general rule of thumb when debugging is to look at the very last line of an error message. That's usually the most informative part of the message, and will often tell you directly what's wrong.
+
 ### `isinstance(..., numbers.Integral)`
 
 This error is telling you that the answer should be an integer, but your answer is not. This often happens when you've done some intermediate work towards the answer and saved an intermediate result in the answer variable instead of the final result.

@@ -1,5 +1,5 @@
 ---
-    title: Week 10
+    title: Week 10 – Regression, Conclusion, and the Final Exam
     weekNumber: 10
     days:
       - date: 2022-3-7

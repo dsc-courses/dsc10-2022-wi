@@ -1,5 +1,5 @@
 ---
-    title: Week 9
+    title: Week 9 – Central Limit Theorem and Regression
     weekNumber: 9
     days:
       - date: 2022-2-28

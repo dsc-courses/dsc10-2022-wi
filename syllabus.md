@@ -33,7 +33,11 @@ There are two lecture sections.
 - A00: MWF 1-1:50PM
 - B00: MWF 2-2:50PM
 
-For at least the first two weeks of the quarter, lectures will be held on Zoom (see the course homepage or the [Calendar](../calendar) for the link). Once campus resumes in-person instruction, both lectures will be held in **Center Hall 214 📍**. You can attend either lecture section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
+**As of January 31st**, you can attend lecture in two ways:
+- By attending in-person at **Center Hall 214**
+- By attending remotely via Zoom (see the course homepage or [Calendar](../Calendar) for the link)
+
+You can attend either lecture section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
 
 ### Discussion
 
@@ -43,7 +47,11 @@ There are two discussion sections.
 - A01: Monday 7-7:50PM
 - B01: Monday 6-6:50PM
 
-For at least the first two weeks of the quarter, discussions will be held on Zoom (see the [Calendar](../calendar) or the course homepage for the link). Once campus resumes in-person instruction, both discussion sections will be held in **Center Hall 105 📍**. You can attend either discussion section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
+**As of January 31st**, you can attend lecture in two ways:
+- By attending in-person at **Center Hall 105**
+- By attending remotely via Zoom (see the course homepage or [Calendar](../Calendar) for the link)
+
+You can attend either discussion section, but if (physical) space fills up, priority will be given to students officially enrolled in that section.
 
 **All lecture and discussion sections will be recorded and posted.** Recordings will be linked on the course homepage. If you are able, you are encouraged to attend lectures and discussions synchronously to ask questions and to participate in concept-check polls and discussion.
 
@@ -51,7 +59,9 @@ Note that the schedule of courses also includes a designated Laboratory time for
 
 ### Office Hours
 
-In order to provide you with help on assignments and concepts, the course staff will be holding several office hours throughout the week. For the first two weeks, these will all be held remotely; once campus resumes in-person instruction, some office hours will remain remote and some will be held in-person. The office hours schedule, complete with locations and the Zoom link, can be found on the [Calendar](../calendar).
+In order to provide you with help on assignments and concepts, the course staff will be holding several office hours throughout the week. 
+
+**As of January 31st**, we are offering both in-person and remote office hours. See the [Calendar](../calendar) for the ofifce hours schedule and for details on how to access both types of office hours.
 
 Office hours are your chance to ask for general help, clarification on assignments, and to review previous assignments.  Course staff will not tell you if your answer is correct, and it is inappropriate to ask. All tutors have previously taken the class, done well, and been trained in how to help you. Here are some really good questions to ask:
 - I got confused about a concept in class.  Can you explain it?

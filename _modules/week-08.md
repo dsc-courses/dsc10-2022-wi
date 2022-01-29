@@ -1,5 +1,5 @@
 ---
-    title: Week 8
+    title: Week 8 – Confidence Intervals and the Normal Curve
     weekNumber: 8
     days:
       - date: 2022-2-21

@@ -1,5 +1,5 @@
 ---
-    title: Week 7
+    title: Week 7 – Permutation Testing, Bootstrapping, and Confidence Intervals
     weekNumber: 7
     days:
       - date: 2022-2-14

@@ -1,5 +1,5 @@
 ---
-    title: Week 2
+    title: Week 2 – Arrays and DataFrames
     weekNumber: 2
     days:
       - date: 2022-1-10

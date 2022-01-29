@@ -1,5 +1,5 @@
 ---
-    title: Week 6
+    title: Week 6 – Midterm Exam, Hypothesis Testing
     weekNumber: 6
     days:
       - date: 2022-2-7

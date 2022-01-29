@@ -1,5 +1,5 @@
 ---
-    title: Week 4
+    title: Week 4 – More DataFrame Operations
     weekNumber: 4
     days:
       - date: 2022-1-24

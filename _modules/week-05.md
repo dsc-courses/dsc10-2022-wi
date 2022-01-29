@@ -1,5 +1,5 @@
 ---
-    title: Week 5
+    title: Week 5 – Probability, Simulation, and Sampling
     weekNumber: 5
     days:
       - date: 2022-1-31
