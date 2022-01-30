@@ -19,7 +19,7 @@ To access a remote office hour (shown in green in the calendar below), click the
 
 ### In-Person Office Hours (<a style="color:chocolate; text-decoration: none">orange</a>)
 
-We are holding a few in-person office hours each week (shown in orange in the calendar below). These are held on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You may need a code to enter the building; this code is TBD. Make sure to hit the # key after typing in the code.
+We are holding a few in-person office hours each week (shown in orange in the calendar below). These are held on the second floor of the east wing of the San Diego Supercomputer Center ([map](https://g.page/SDSC_UCSanDiego?share)). Enter SDSC from the main entrance on Hopkins Drive, take the elevator up to the second floor, turn left at the kitchen, and meet in the common area. You will need a code to enter the building; the code can be found in [this Campuswire post](https://campuswire.com/c/G6950E967/feed/431). Make sure to hit the # key after typing in the code.
 
 [Zoom Link](https://ucsd.zoom.us/j/96971704832){: .btn .btn-blue }
 
