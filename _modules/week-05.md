@@ -24,5 +24,5 @@
       
       - date: 2022-2-5
         events:
-          "**HW 4**{: .label .label-hw } **DataFrames, Control Flow, and Probability (due 2/5)**":
+          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 2/5)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/04-control_flow/homework.ipynb)":
 ---
