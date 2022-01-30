@@ -23,7 +23,7 @@
           "**LEC 11**{: .label .label-lecture } [Booleans and Conditionals, Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec11/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZ-009bsYu5HO8WUa3cISKI)":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
                 
-      - date: 2022-1-29
+      - date: 2022-1-30
         events:
-          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 1/29)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
+          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 1/30)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
 ---
