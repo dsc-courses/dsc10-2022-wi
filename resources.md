@@ -29,6 +29,7 @@ Below we've linked some exams from previous offerings of the course. These exams
 - [DataFrames (Lecture 4)](https://youtu.be/t_bjtBJ0gGc)
 - [Grouping (Lecture 6)](https://youtu.be/xg7rnjWnZ48)
 - [Bar Charts (Lecture 7)](https://youtu.be/OVTroiHby3g)
+- [Example: days_between (Lecture 11/12)](https://youtu.be/6HOAk0GAqKU)
 
 ### Other
 - [Navigating DataHub and Jupyter Notebooks](https://youtu.be/Hq8VaNirDRQ)
@@ -49,6 +50,14 @@ Below we've linked some exams from previous offerings of the course. These exams
 - [Coding Bat](https://codingbat.com/python)
 - [Introduction to Computational Thinking with Data](http://data94.org)
 - [Pair Programming Guidelines](../pair-programming)
+
+## Probability-Specific Resources
+- [Note 18 in the course notes](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html)
+- [Computational and Inferential Thinking, Chapter 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)
+- [Theory Meets Data, Chapters 1 and 2](http://stat88.org/textbook/notebooks/Chapter_01/00_The_Basics.html).
+- [Khan Academy's unit on Probability](https://www.khanacademy.org/math/probability/xa88397b6:probability)
+- [Suraj's DSC 40A slides on probability from last quarter](https://dsc-courses.github.io/dsc40a-2021-fa/resources/lecture/lec12-filled.pdf)
+    - More in-depth than what you need to know for this course, but still may be helpful.
 
 ## UC San Diego Links
 - [Data Science Undergraduate Program](https://datascience.ucsd.edu/academics/undergraduate/)

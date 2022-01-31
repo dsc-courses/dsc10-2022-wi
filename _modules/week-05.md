@@ -4,8 +4,8 @@
     days:
       - date: 2022-1-31
         events:
-          "**LEC 12**{: .label .label-lecture } Probability":
-            "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html)"
+          "**LEC 12**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec12/lecture.ipynb) ([blank pdf](../resources/lectures/lec12/lec12-blank.pdf))":
+            "[Note 18](https://notes.dsc10.com/04-probability_and_simulation/probability_and_simulation.html), [CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
                 
           "**DIS 4**{: .label .label-disc } Merge, Conditionals, and Iteration":
       - date: 2022-2-1
