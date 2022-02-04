@@ -14,14 +14,14 @@ nav_order: 4
 1. TOC
 {:toc}
 
-<!-- ## Practice Exams
+## Practice Exams
 
-Below we've linked some exams from previous offerings of the course. These exams may not be in the same format as the exams in Fall 2021; you should prioritize the Winter 2021 exams as they will be closer in format to the Fall 2021 exams.
+Below we've linked PDF versions of the exams from two previous offerings of the course. To see the format of the exams in this course on Gradescope, check out this [Practice Exam Template](https://www.gradescope.com/courses/339284/assignments/1832461).
 
-| Quarter | Instructor | Midterm | Final |
+| Quarter | Instructor(s) | Midterm | Final | Notes | 
 | --- | --- | --- | --- |
-| Spring 2021 | Mikio Aoi | [notebook](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2021-fa&subPath=other/sp21_practice_exam/sp21_practice_exam_notebook.ipynb), [pdf](../resources/exams/practice_exam_S21.pdf), [solutions](../resources/exams/practice_exam_S21_solutions.pdf) | [pdf](../resources/exams/practice_final_S21.pdf), [solutions](../resources/exams/practice_final_S21_solutions.pdf) |
-| ⭐️ Winter 2021 | Janine Tiefenbruck | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1595884/) | [exam (Gradescope)](https://www.gradescope.com/courses/314157/assignments/1685350) | -->
+| Fall 2021 | Janine Tiefebruck, Suraj Rampure | [exam](../resources/exams/fa21/fa21-midterm.pdf), [solutions](../resources/exams/fa21/fa21-midterm-sol.pdf) | [exam](../resources/exams/fa21/fa21-final.pdf), [solutions](../resources/exams/fa21/fa21-final-sol.pdf) |
+| Winter 2021 | Janine Tiefenbruck | [exam](../resources/exams/wi21/wi21-midterm.pdf), [solutions](../resources/exams/wi21/wi21-midterm-sol.pdf) | [exam](../resources/exams/wi21/wi21-final.pdf), [solutions](../resources/exams/wi21/wi21-final-sol.pdf) | The Winter 2021 was 75 minutes long, while ours will be 50 minutes long. Also, our exams will not have any open-ended questions. | 
 
 ## Supplemental Videos
 
