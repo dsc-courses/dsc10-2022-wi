@@ -8,15 +8,16 @@
             "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html)"
                 
           "**DIS 6**{: .label .label-disc } Hypothesis Testing":
-      - date: 2022-2-15
-        events:
-          
-          "**Lab 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 2/17)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/05-hypothesis_testing/lab.ipynb)":
+      
       - date: 2022-2-16
         events:
           "**LEC 18**{: .label .label-lecture } Causality, Bootstrapping":
             "[Note 23](https://notes.dsc10.com/06-estimation/1_bootstrap.html)"
-                
+      - date: 2022-2-17
+        events:
+          
+          "**Lab 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 2/17)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/05-hypothesis_testing/lab.ipynb)":
+          
       - date: 2022-2-18
         events:
           "**LEC 19**{: .label .label-lecture } Percentiles and Confidence Intervals":
