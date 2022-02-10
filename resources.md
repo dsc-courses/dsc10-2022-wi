@@ -20,6 +20,7 @@ Below we've linked PDF versions of the exams from two previous offerings of the 
 
 | Quarter | Instructor(s) | Midterm | Final | Notes | 
 | --- | --- | --- | --- |
+| Winter 2022 | Suraj Rampure | [solutions](../resources/exams/wi22/wi22-midterm-sol.pdf) |  |
 | Fall 2021 | Janine Tiefebruck, Suraj Rampure | [exam](../resources/exams/fa21/fa21-midterm.pdf), [solutions](../resources/exams/fa21/fa21-midterm-sol.pdf) | [exam](../resources/exams/fa21/fa21-final.pdf), [solutions](../resources/exams/fa21/fa21-final-sol.pdf) |
 | Winter 2021 | Janine Tiefenbruck | [exam](../resources/exams/wi21/wi21-midterm.pdf), [solutions](../resources/exams/wi21/wi21-midterm-sol.pdf) | [exam](../resources/exams/wi21/wi21-final.pdf), [solutions](../resources/exams/wi21/wi21-final-sol.pdf) | - The Winter 2021 was 75 minutes long, while ours will be 50 minutes long. Also, our exams will not have any open-ended questions. <br> - [Video walkthrough](https://www.youtube.com/watch?v=ZdujIQpQtSk) of Question 10.2-10.3 on the Midterm | 
 
