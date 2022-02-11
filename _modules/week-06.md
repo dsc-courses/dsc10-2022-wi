@@ -14,7 +14,7 @@
           "**Exam**{: .label .label-exam } **Midterm Exam (remote, during class)**":
       - date: 2022-2-11
         events:
-          "**LEC 16**{: .label .label-lecture } [Hypothesis Testing, Continued](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec16/lecture.ipynb)":
+          "**LEC 16**{: .label .label-lecture } [Hypothesis Testing, Continued](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec16/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhbGTqrcbvVYWCBm4WfbgP1X)":
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2022-2-12
         events:
