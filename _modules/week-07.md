@@ -5,14 +5,14 @@
       - date: 2022-2-14
         events:
           "**LEC 17**{: .label .label-lecture } Permutation Testing":
-            "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html)"
+            "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
           "**DIS 6**{: .label .label-disc } Hypothesis Testing":
       
       - date: 2022-2-16
         events:
           "**LEC 18**{: .label .label-lecture } Causality, Bootstrapping":
-            "[Note 23](https://notes.dsc10.com/06-estimation/1_bootstrap.html)"
+            "[Note 23](https://notes.dsc10.com/06-estimation/1_bootstrap.html), [CIT 12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
             
       - date: 2022-2-17
         events:
