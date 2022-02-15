@@ -7,7 +7,7 @@
           "**LEC 17**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec17/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhaWOosiN6Vaeq-BqrhJJxHk)":
             "[Note 22](https://notes.dsc10.com/05-hypothesis_testing/2_permutation_tests.html), [CIT 12](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)"
                 
-          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/06-hypothesis_testing/discussion.ipynb)":
+          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/06-hypothesis_testing/discussion.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhb31N-ebmsAGs4PzRMBJ1pN)":
       
       - date: 2022-2-16
         events:
