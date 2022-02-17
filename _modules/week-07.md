@@ -11,7 +11,7 @@
       
       - date: 2022-2-16
         events:
-          "**LEC 18**{: .label .label-lecture } [Causality, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec18/lecture.ipynb)":
+          "**LEC 18**{: .label .label-lecture } [Causality, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec18/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhazI_CwugwVK_BuOsK57AG4)":
             "[Note 23](https://notes.dsc10.com/06-estimation/1_bootstrap.html), [CIT 12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
             
       - date: 2022-2-17
