@@ -20,7 +20,7 @@
           
       - date: 2022-2-18
         events:
-          "**LEC 19**{: .label .label-lecture } [Percentiles and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec19/lecture.ipynb)":
+          "**LEC 19**{: .label .label-lecture } [Percentiles and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec19/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhaddK_6UOmunR87iWdO6YM8)":
             "[Notes 24-25](https://notes.dsc10.com/06-estimation/2_confidence_intervals.html)"
       
       - date: 2022-2-19
