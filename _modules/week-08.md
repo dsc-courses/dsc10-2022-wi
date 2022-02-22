@@ -6,7 +6,7 @@
         events:
           
           "No Lecture (Presidents' Day)":
-          "**DIS 7**{: .label .label-disc } Permutation Testing (Recording Only)":
+          "**DIS 7**{: .label .label-disc } [Permutation Testing (Recording Only)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/07-permutation_testing/discussion.ipynb)":
       - date: 2022-2-22
         events:
           
