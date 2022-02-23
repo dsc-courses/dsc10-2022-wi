@@ -11,7 +11,7 @@
       - date: 2022-3-1
         events:
           
-          "**Lab 7**{: .label .label-lab } **Center, Spread, and the Normal Distribution (due 3/1)**":
+          "**Lab 7**{: .label .label-lab } [**Center, Spread, and the Normal Distribution (due 3/1)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/07-su_normal_clt/lab.ipynb)":
       - date: 2022-3-2
         events:
           "**LEC 23**{: .label .label-lecture } Experiment Design":
