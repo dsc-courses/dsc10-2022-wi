@@ -70,3 +70,4 @@ Below we've linked PDF versions of the exams from two previous offerings of the 
 
 ## Other
 - [Places to find datasets](https://rampure.org/find-datasets)
+- [Permutation Testing Visualization](https://www.jwilber.me/permutationtest/)
