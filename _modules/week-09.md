@@ -7,7 +7,7 @@
           "**LEC 22**{: .label .label-lecture } [Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec21/lecture.ipynb)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
                 
-          "**DIS 8**{: .label .label-disc } Bootstrapping, Confidence Intervals, and the Normal Curve":
+          "**DIS 8**{: .label .label-disc } [Bootstrapping, Confidence Intervals, and the Normal Curve](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/08-normal_clt/discussion.ipynb)":
       - date: 2022-3-1
         events:
           
