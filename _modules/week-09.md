@@ -14,7 +14,7 @@
           "**Lab 7**{: .label .label-lab } [**Center, Spread, and the Normal Distribution (due 3/1)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/07-su_normal_clt/lab.ipynb)":
       - date: 2022-3-2
         events:
-          "**LEC 23**{: .label .label-lecture } [Experiment Design](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec23/lecture.ipynb) (Zoom only)":
+          "**LEC 23**{: .label .label-lecture } [Experiment Design](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec23/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZfNzwyp2m3fFHm0mR0-rIR)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
                 
       - date: 2022-3-4
