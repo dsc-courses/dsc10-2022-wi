@@ -14,7 +14,7 @@
           "**PROJ**{: .label .label-proj } **[Final Project (due 3/9)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=projects/final_project/project.ipynb)** ([find a partner](https://docs.google.com/spreadsheets/d/1m5eDcFdYTQq5bu9VRYINZBFgckCyJEOXZFZGZ9bQqKY/edit#gid=0)) ([pair programming](../pair-programming))":
       - date: 2022-3-10
         events:
-          "**Lab 8**{: .label .label-lab } **Regression (due 3/10)**":
+          "**Lab 8**{: .label .label-lab } [**Regression (due 3/10)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/08-regression/lab.ipynb)":
       - date: 2022-3-11
         events:
           "**LEC 27**{: .label .label-lecture } Conclusion":
