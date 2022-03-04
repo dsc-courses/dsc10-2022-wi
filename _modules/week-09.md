@@ -19,7 +19,7 @@
                 
       - date: 2022-3-4
         events:
-          "**LEC 24**{: .label .label-lecture } Prediction and Correlation (Zoom only)":
+          "**LEC 24**{: .label .label-lecture } [Prediction and Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec24/lecture.ipynb) (Zoom only)":
             "[CIT 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
               
       - date: 2022-3-5
