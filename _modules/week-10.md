@@ -20,5 +20,6 @@
           "**LEC 27**{: .label .label-lecture } Conclusion":
       - date: 2022-3-12
         events:
+          "**Survey**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/6BAyrab5GJE6xFfW8) + [CAPEs](https://cape.ucsd.edu) (due 3/12 8AM)**":
           "**Exam**{: .label .label-exam } **Final Exam (remote, 3-6PM)**":
 ---
