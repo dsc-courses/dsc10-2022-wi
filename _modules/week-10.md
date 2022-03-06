@@ -7,7 +7,7 @@
           "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec25/lecture.ipynb)":
             "[CIT 15.2-15.3](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
                 
-          "**DIS 9**{: .label .label-disc } CLT and Review":
+          "**DIS 9**{: .label .label-disc } Review (6-7:30PM)":
       - date: 2022-3-9
         events:
           "**LEC 26**{: .label .label-lecture } Review":
