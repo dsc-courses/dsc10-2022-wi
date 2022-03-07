@@ -64,6 +64,14 @@ This often happens when you use a default keyword (like `str` or `list`) as a va
 
 To fix the issue, identify any such lines of code, change your variable names to be something else, and restart your notebook.
 
+### `No module named 'babypandas'
+
+This can happen if you click the name of a course other than DSC 10 when logging into DataHub. Here's how to "switch" your DataHub to DSC 10 mode:
+- Click "Control Panel" in the top right
+- Click "Services", then click "manual-resetter"
+- Click "Reset" (if a pop-up box appears, click okay)
+- Log back into DataHub and it should allow you to select a course again – select DSC 10
+
 
 ### Other errors
 
