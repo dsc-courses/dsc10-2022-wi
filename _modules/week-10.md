@@ -10,7 +10,7 @@
           "**DIS 9**{: .label .label-disc } [Review (6-7:30PM)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=discussions/09-final_review/discussion.ipynb) [🎥](https://youtu.be/FnsJ9xZPG2s) [Statistics Cheat Sheet](https://campuspro-uploads.s3.us-west-2.amazonaws.com/6950e967-6500-4eae-8010-f961cccc4b93/a5fc93e3-9ece-4a48-9ba3-5653d571b5d8/dsc10%20stat%20cheat%20sheet.pdf)":
       - date: 2022-3-9
         events:
-          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec26/)":
+          "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec26/) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhbHiHmZJT5ogeBLCKxFLQoQ)":
           "**PROJ**{: .label .label-proj } **[Final Project (due 3/9)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=projects/final_project/project.ipynb)** ([find a partner](https://docs.google.com/spreadsheets/d/1m5eDcFdYTQq5bu9VRYINZBFgckCyJEOXZFZGZ9bQqKY/edit#gid=0)) ([pair programming](../pair-programming))":
       - date: 2022-3-10
         events:
