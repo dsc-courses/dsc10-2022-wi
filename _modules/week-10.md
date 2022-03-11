@@ -17,7 +17,7 @@
           "**Lab 8**{: .label .label-lab } [**Regression (due 3/10)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/08-regression/lab.ipynb)":
       - date: 2022-3-11
         events:
-          "**LEC 27**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec27/lec27.ipynb)":
+          "**LEC 27**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec27/lecture.ipynb)":
       - date: 2022-3-12
         events:
           "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/6BAyrab5GJE6xFfW8) + [CAPEs](https://cape.ucsd.edu) (due 3/12 8AM)**":
