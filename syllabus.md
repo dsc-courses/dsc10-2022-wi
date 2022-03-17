@@ -125,7 +125,7 @@ Our readings will come from two free online sources.
 
 ---
 
-## Assignments and Assessments 🧪
+## Assignments 🧪
 
 ### Lab Assignments
 
@@ -166,7 +166,21 @@ Slip days are designed to be a transparent and predictable source of leniency in
 
 **Slip days are applied automatically at the end of the quarter, and you don't need to ask in order to use one.** It's your responsibility to keep track of how many you have left. If you've run out of slip days and submit an assignment late, that assignment may still be graded, but you will receive a 0 on it when we calculate grades at the end of the quarter. However, in the event that you use all six days and submit another assignment late, we will allocate your slip days first to the final project and midterm project, then to your homeworks (in chronological order), and then to your labs (in chronological order). This is done to prevent you from receiving a 0 on, say, the final project, if you've used up all of your slip days at the end of the quarter; in such an example, you'd instead receive a 0 on an earlier assignment that isn't weighted as much in your grade. This policy only helps your grade.
 
-### Exams
+### Submission Errors
+
+It is your responsibility to ensure that your work is submitted correctly to Gradescope as a `.ipynb` file. Watch 20:05 and onwards of [this video](https://youtu.be/Hq8VaNirDRQ?t=1206) to see the two ways of downloading Jupyter notebooks as a `.ipynb` file.
+
+When submitting your work, there are two potential errors to watch out for:
+1. Submitting your notebook in the wrong format, e.g. submitting as a `.json` or `.txt` file instead of a `.ipynb` file. If you do this, the Gradescope autograder will not be able to grade your work, and you will get a 0. This can almost certainly be avoided by watching the aforementioned video.
+2. Submitting the wrong notebook, e.g. submitting your Lab 6 notebook to the Homework 6 assignment on Gradescope. This will also give you a 0, because the Gradescope autograder for a particular assignment can only grade your work for that assignment.
+
+To prevent these issues, it is important that you (1) double-check that you are submitting the right notebook in the right format to Gradescope, and (2) let the autograder run on Gradescope until it shows you under “Public Tests” that all public test cases passed.
+
+If you happen to make one of the above mistakes and the assignment deadline has passed, you should reach out to a staff member and they will notify the tutor in charge of processing assignment submission. Since it’s your responsibility to ensure that all assignments are submitted correctly, you will lose a slip day if we have to resubmit for you.
+
+---
+
+## Exams 📝
 
 This class has one midterm exam and one final exam.  Exams are cumulative, though the final exam will emphasize material after the midterm.
 
