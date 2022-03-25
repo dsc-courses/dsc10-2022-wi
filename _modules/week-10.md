@@ -11,15 +11,15 @@
       - date: 2022-3-9
         events:
           "**LEC 26**{: .label .label-lecture } [Review](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec26/) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhbHiHmZJT5ogeBLCKxFLQoQ)":
-          "**PROJ**{: .label .label-proj } **[Final Project (due 3/9)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=projects/final_project/project.ipynb)** ([find a partner](https://docs.google.com/spreadsheets/d/1m5eDcFdYTQq5bu9VRYINZBFgckCyJEOXZFZGZ9bQqKY/edit#gid=0)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } Final Project (due 3/9) ([pair programming](../pair-programming))":
       - date: 2022-3-10
         events:
-          "**Lab 8**{: .label .label-lab } [**Regression (due 3/10)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/08-regression/lab.ipynb)":
+          "**Lab 8**{: .label .label-lab } Regression (due 3/10)":
       - date: 2022-3-11
         events:
           "**LEC 27**{: .label .label-lecture } [Review, Conclusion](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec27/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhZN-km4KemA7iT_9N4bRjw8)":
       - date: 2022-3-12
         events:
-          "**SUR**{: .label .label-survey } **[End of Quarter Survey](https://forms.gle/6BAyrab5GJE6xFfW8) + [CAPEs](https://cape.ucsd.edu) (due 3/12 8AM)**":
+          "**SUR**{: .label .label-survey } End of Quarter Survey + CAPEs (due 3/12 8AM)":
           "**Exam**{: .label .label-exam } **Final Exam (remote, 3-6PM)**":
 ---

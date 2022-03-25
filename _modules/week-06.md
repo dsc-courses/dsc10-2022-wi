@@ -18,5 +18,5 @@
             "[Note 21](https://notes.dsc10.com/05-hypothesis_testing/1_hypothesis_tests.html), [CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
       - date: 2022-2-12
         events:
-          "**PROJ**{: .label .label-proj } **[Midterm Project (due 2/12)](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=projects/midterm_project/project.ipynb)** ([find a partner](https://docs.google.com/spreadsheets/d/1m5eDcFdYTQq5bu9VRYINZBFgckCyJEOXZFZGZ9bQqKY/edit#gid=0)) ([pair programming](../pair-programming))":
+          "**PROJ**{: .label .label-proj } Midterm Project (due 2/12) ([pair programming](../pair-programming))":
 ---

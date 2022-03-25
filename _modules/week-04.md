@@ -12,7 +12,7 @@
       - date: 2022-1-25
         events:
           
-          "**Lab 3**{: .label .label-lab } [**Data Visualization and Python Functions (due 1/25)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/03-apply_vis/lab.ipynb)":
+          "**Lab 3**{: .label .label-lab } Data Visualization and Python Functions (due 1/25)":
       - date: 2022-1-26
         events:
           "**LEC 10**{: .label .label-lecture } [Grouping with Subgroups, Merge](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec10/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhaS6geemFTUtdwH9vNOTxAO)":
@@ -25,5 +25,5 @@
                 
       - date: 2022-1-30
         events:
-          "**HW 3**{: .label .label-hw } [**Data Visualization and Python Functions (due 1/30)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/03-functions_visualizations/homework.ipynb)":
+          "**HW 3**{: .label .label-hw } Data Visualization and Python Functions (due 1/30)":
 ---

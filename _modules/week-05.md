@@ -11,7 +11,7 @@
       - date: 2022-2-1
         events:
           
-          "**Lab 4**{: .label .label-lab } [**DataFrames, Control Flow, and Probability (due 2/1)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/04-control_flow/lab.ipynb)":
+          "**Lab 4**{: .label .label-lab } DataFrames, Control Flow, and Probability (due 2/1)":
       - date: 2022-2-2
         events:
           "**LEC 13**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec13/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUha2FwzPPNWuNmSujT_7t2qs)":
@@ -24,5 +24,5 @@
       
       - date: 2022-2-5
         events:
-          "**HW 4**{: .label .label-hw } [**DataFrames, Control Flow, and Probability (due 2/5)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/04-control_flow/homework.ipynb)":
+          "**HW 4**{: .label .label-hw } DataFrames, Control Flow, and Probability (due 2/5)":
 ---

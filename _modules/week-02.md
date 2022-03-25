@@ -11,7 +11,7 @@
       - date: 2022-1-11
         events:
           
-          "**Lab 1**{: .label .label-lab } [**Expressions and Data Types (due 1/11)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/01-python_basics/lab.ipynb)":
+          "**Lab 1**{: .label .label-lab } Expressions and Data Types (due 1/11)":
           
       - date: 2022-1-12
         events:
@@ -24,5 +24,5 @@
             "[Notes 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
       - date: 2022-1-15
         events:
-          "**HW 1**{: .label .label-hw } [**Causality and Basic Python (due 1/15)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/01-causality/homework.ipynb)":
+          "**HW 1**{: .label .label-hw } Causality and Basic Python (due 1/15)":
 ---

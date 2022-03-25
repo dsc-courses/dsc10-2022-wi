@@ -10,7 +10,7 @@
       - date: 2022-2-22
         events:
           
-          "**Lab 6**{: .label .label-lab } [**Resampling and the Bootstrap (due 2/22)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/06-resampling_and_the_bootstrap/lab.ipynb)":
+          "**Lab 6**{: .label .label-lab } Resampling and the Bootstrap (due 2/22)":
       - date: 2022-2-23
         events:
           "**LEC 20**{: .label .label-lecture } [Confidence Intervals, Center and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=lectures/lec20/lecture.ipynb) [🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYUj2XuRLi-gb2e7u0Spqiq)":
@@ -23,5 +23,5 @@
       
       - date: 2022-2-26
         events:
-          "**HW 6**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping (due 2/26)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/06-bootstrap/homework.ipynb)":
+          "**HW 6**{: .label .label-hw } Permutation Testing, Percentiles, and Bootstrapping (due 2/26)":
 ---

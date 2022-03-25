@@ -16,7 +16,7 @@
             
       - date: 2022-2-17
         events:
-          "**Lab 5**{: .label .label-lab } [**Simulation, Sampling, and Hypothesis Testing (due 2/17)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=labs/05-hypothesis_testing/lab.ipynb)":
+          "**Lab 5**{: .label .label-lab } Simulation, Sampling, and Hypothesis Testing (due 2/17)":
           
       - date: 2022-2-18
         events:
@@ -25,5 +25,5 @@
       
       - date: 2022-2-19
         events:
-          "**HW 5**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing (due 2/19)**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2022-wi&subPath=homeworks/05-hypothesis/homework.ipynb)":
+          "**HW 5**{: .label .label-hw } Simulation, Sampling, and Hypothesis Testing (due 2/19)":
 ---
